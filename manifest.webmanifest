@@ -1,0 +1,9 @@
+{
+  "name": "Bacaksızlar Halıcılık",
+  "short_name": "Bacaksızlar",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#15100d",
+  "theme_color": "#17110d",
+  "orientation": "portrait"
+}
